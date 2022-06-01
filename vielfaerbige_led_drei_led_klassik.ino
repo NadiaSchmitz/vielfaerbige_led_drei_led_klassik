@@ -1,7 +1,3 @@
-int led_red = 11;
-int led_green = 10;
-int led_white = 3;
-String gelesen = "";
 int drei_led_rot = 6;
 int drei_led_gruen = 5;
 int drei_led_blau = 3;
